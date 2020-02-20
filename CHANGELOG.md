@@ -1,5 +1,8 @@
 # ChangeLog
 
+## 0.1.5
+- Updated the viewer style with better contrasting colors, font spacing and several other improvements
+
 ## 0.1.4
 - Added feedback button
 - Updated updater window
