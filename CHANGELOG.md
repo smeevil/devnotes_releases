@@ -1,5 +1,17 @@
 # ChangeLog
 
+## 0.1.6
+### :tada: New
+- Sync scroll views from editor to viewer :arrow_up_down:
+
+### :stars: Improvements
+- Viewer now renders like a blog post :sunglasses:
+- Safari should now render correctly as well :tada:
+- Electron windows have custom scrollbars :fireworks:
+
+### :wrench: Fixes
+- Multiple Mermaid render fix thanks to @rachid :tropical_fish:
+
 ## 0.1.5
 - Updated the viewer style with better contrasting colors, font spacing and several other improvements
 
