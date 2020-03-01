@@ -1,4 +1,67 @@
 # ChangeLog
+## 0.1.7
+
+### The first premium feature, Grammar Checking, is here !
+The first button in the new toolbar triggers a grammar check. You will see a small progress indicator as soon as you click it. Wait for the progress to be done and you will see red underlines on words that are grammatically incorrect or misspelled.
+
+Hover over those lines and you get a bunch of suggestions. You will also be able to add words to your local or global dictionary, or, Ignore rules for this note or all your notes.
+
+### A shiny new Toolbar :tada:
+
+The code editor now has a toolbar to help you with formatting the text.
+You can click the select some text and click the buttons to apply the formatting.
+
+You can also use the following keyboard shortcuts:
+
+- `Cmd-B` bold
+- `Cmd-I` italic
+- `Cmd-1` h1
+- `Cmd-2` h2
+- `Cmd-3` h3
+- `Cmd-4` h4
+- `Cmd-5` h5
+- `Cmd-6` h6
+- `Cmd-.` quote'
+- `Cmd-X` toggleCheckBox
+
+For our windows users, replace Cmd with Ctrl.
+
+### Table support
+We\`ve made it easier to create tables. Just start on a new line with a pipe `|` and type a header. Then press `tab` to get the next column or enter to procesed to the next row.
+If you are done with the table just press `CMD-Enter` or `CTRL-Enter` and you can continue as usual.
+
+The following keyboard shortcuts are available while editing a table:
+
+  - `Tab` Next column
+  - `Shift-Tab` Previous Column
+  - `Enter` Newt Row
+  - `Cmd-Enter` End Table
+  - `Shift-Cmd-Left` Align column to the left
+  - `Shift-Cmd-Right` Align column to the right
+  - `Shift-Cmd-Up` Move row up
+  - `Shift-Cmd-Down` Move row down
+  - `Cmd-Left` Next Cell
+  - `Cmd-Right` Previous Cell
+  - `Cmd-Up` Cell Above
+  - `Cmd-Down` Cell Below
+
+This is an example of how to create a table:
+
+```
+| First Name | Last Name | Email               |
+| ---------- | --------- | ------------------- |
+| John       | Smith     | J.Smith@example.com |
+| Jane       | Doe       | J.Doe@example.com   |
+```
+
+
+### :stars: Improvements
+- Code blocks that do not specify a language will no longer show line numbers
+- Code blocks that are smaller than or equal to 10 lines will no longer show line numbers
+- These changes will be configurable in the future
+
+### :wrench: Fixes
+- Auto-tagger should now behave again.
 
 ## 0.1.6
 ### :tada: New
