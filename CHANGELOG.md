@@ -1,4 +1,34 @@
 # ChangeLog
+## 0.1.8
+
+### Support for admonitions
+You can now create admonitions by using the following syntax:
+
+:::tip A tippy tip
+This is pretty great!
+```ts
+const supports_code = true
+```
+:::
+
+:::note Just a simple note
+A simple important message
+:::
+
+:::important An important message
+A simple important message
+:::
+
+:::caution This is dangerous
+A simple important message
+:::
+
+:::warning This is a Warning
+A simple important message
+:::
+
+The toolbar also contains new entries to create these admonitions.
+
 ## 0.1.7
 
 ### The first premium feature, Grammar Checking, is here !
