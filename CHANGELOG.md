@@ -3,13 +3,21 @@
 
 ### Support for admonitions
 You can now create admonitions by using the following syntax:
+```
+:::tip A tippy tip
+This is pretty great!
+:::
+```
+
+Which will display like.
 
 :::tip A tippy tip
 This is pretty great!
-```ts
-const supports_code = true
-```
 :::
+
+Do note you can still embed code inside the admonitions :)
+
+Here are a few variants:
 
 :::note Just a simple note
 A simple important message
@@ -28,6 +36,10 @@ A simple important message
 :::
 
 The toolbar also contains new entries to create these admonitions.
+
+### :stars: Improvements
+
+Added a table icon that inserts an example table if nothing is selected.
 
 ## 0.1.7
 
@@ -125,3 +137,4 @@ This is an example of how to create a table:
 
 ## 0.1.0
 - initial release
+
