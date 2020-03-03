@@ -1,4 +1,8 @@
 # ChangeLog
+## 0.1.9
+### :wrench: Fixes
+- windows build
+
 ## 0.1.8
 
 ### Support for admonitions
