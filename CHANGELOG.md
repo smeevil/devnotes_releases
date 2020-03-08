@@ -1,5 +1,20 @@
 # ChangeLog
+## 0.2.0
+
+### The second premium feature, Collaborative Editing, is here !
+You can now create teams, invite members, and share your notes with them.
+Everyone can edit the note simultaneously and you will see their cursors and changes in realtime.
+If collaborators are connected, they will show up in the bottom bar indicating which color caret belongs to which user.
+
+### :tada: New
+- Create teams
+- Invite members
+- Share notes
+- Collaborative Editing
+- Versioning : Every document save will create a new version. This will allow us in the future to view or rollback to previous versions.
+
 ## 0.1.9
+
 ### :wrench: Fixes
 - windows build
 
