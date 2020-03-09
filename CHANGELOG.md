@@ -1,4 +1,17 @@
-# ChangeLog
+### 0.2.2
+
+### :tada: New
+- You can now restore notes to a previous state.
+
+### :stars: Improvements
+- Toolbar items now stack
+- Updated history panel
+
+## 0.2.1
+
+### :wrench: Fixes
+- disabled version saves as this caused a bug
+
 ## 0.2.0
 
 ### The second premium feature, Collaborative Editing, is here !
@@ -156,4 +169,3 @@ This is an example of how to create a table:
 
 ## 0.1.0
 - initial release
-
