@@ -7,10 +7,6 @@
 ### :wrench: Fixes
 - CPU usage: As we increased the login token validity to 31 days, we broke the 32bit limit in milliseconds that was used for the setInterval to refresh the token, effectively causing it to try and refresh the token every millisecond. we no clamp the value to a minimum of once per minute and a maximum of once per hour.
 - The markup button for Bold now actually makes something bold instead of italic :)
-- z-index issue regarding the split lines
-- Fixed slugging of headers in table of Contents
-
-
 
 ## 0.2.3
 
