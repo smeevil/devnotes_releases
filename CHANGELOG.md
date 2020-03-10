@@ -1,3 +1,9 @@
+### 0.2.3
+
+### :wrench: Fixes
+- The markup button for Bold now actually makes something bold instead of italic :)
+- z-index issue regarding the split lines
+
 ### 0.2.2
 
 ### :tada: New
