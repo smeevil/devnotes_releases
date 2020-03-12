@@ -1,3 +1,10 @@
+## 0.2.5
+### :tada: New
+- Added a warning indicator when we detect that we are offline.
+
+### :wrench: Fixes
+- 100% CPU usages and unresponsiveness if the editor had a document open, went offline and came online again.
+
 ## 0.2.4
 
 ### :tada: New
