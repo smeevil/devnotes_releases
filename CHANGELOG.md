@@ -1,3 +1,7 @@
+## 0.2.6
+### :tada: New
+- you can now publish your notes, they will be available (for now) at `https://devnotes.beta.af/<username>`
+
 ## 0.2.5
 ### :tada: New
 - Added a warning indicator when we detect that we are offline.
