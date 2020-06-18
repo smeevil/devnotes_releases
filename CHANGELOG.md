@@ -1,3 +1,15 @@
+# ChangeLog
+
+## 0.2.8
+### :stars: Improvements
+- Updated notes panel so its more compact.
+- You can now favorite a document by clicking on the star at the top of the documents title.
+- Added a search filter to only show documents that contain the search query.
+
+## 0.2.7
+### :wrench: Fixes
+- potential fix for freezing after the app has been idle for a while (thanks @rachid!)
+
 ## 0.2.6
 ### :tada: New
 - you can now publish your notes, they will be available (for now) at `https://devnotes.beta.af/<username>`
