@@ -1,10 +1,15 @@
 # ChangeLog
+## 0.2.9
+### :stars: Improvements
+- updated interface again :)
+
 
 ## 0.2.8
 ### :stars: Improvements
 - Updated notes panel so its more compact.
 - You can now favorite a document by clicking on the star at the top of the documents title.
 - Added a search filter to only show documents that contain the search query.
+
 
 ## 0.2.7
 ### :wrench: Fixes
@@ -34,10 +39,12 @@
 ## 0.2.3
 
 ### :wrench: Fixes
-- The markup button for Bold now actually makes something bold instead of italic :)
-- z-index issue regarding the split lines
 
-### 0.2.2
+The markup button for Bold now actually makes something bold instead of italic :)
+z-index issue regarding the split lines
+
+
+## 0.2.2
 
 ### :tada: New
 - You can now restore notes to a previous state.
